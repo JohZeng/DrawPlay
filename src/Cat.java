@@ -1,3 +1,7 @@
+/** Cat class for C11 Project
+ * @author Johnny Zeng
+ * @author Michelle Hulongbayan
+ */
 import javax.swing.JPanel;
 import java.awt.*;
 import java.awt.geom.*;

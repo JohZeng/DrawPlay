@@ -1,3 +1,7 @@
+/**Drawing class for C11 Project
+ * @author Johnny Zeng
+ * @author Michelle Hulongbayan
+ */
 import java.awt.Graphics;
 
 import javax.swing.JFrame;
